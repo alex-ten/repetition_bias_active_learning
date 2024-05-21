@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 pilots
 trash
+plots_temp/*
+.Rhistory
+*.pyc
