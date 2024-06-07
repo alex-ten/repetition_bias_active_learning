@@ -1,5 +1,7 @@
 module Blocking
 
-greet() = print("Hello World!")
+include("model.jl")
 
-end # module Blocking
+export novelty
+
+end
