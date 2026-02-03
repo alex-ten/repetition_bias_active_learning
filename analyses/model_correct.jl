@@ -10,9 +10,10 @@ using Turing
 
 # Bayesian binary logistic regression
 @model function naive_model(x, y)
-    intercept ~ Exponential(1)
-    blockTrial ~ Exponential(1)
-    famTrial ~ Exponential(1)
+    intercept ~ Normal(0, 10)
+    blockTrial ~ Normal(0, 10)
+    famTrial ~ Normal(0, 10)
+    dist ~ 
     
     for i in eachindex(y)
         v = logistic(intercept + blockTrial * x[i, 1] + famTrial * x[i, 2])
@@ -42,6 +43,14 @@ function cumcount(x)
     return collect(Float64, 1:length(x))
 end
 
+function parse_features(s)
+    return parse.(Int, split(s[2:end-1], ", "))
+end
+
+function distfromcatbound(x, y)
+    return abs(7 - (x + y))
+end
+
 function plot_data(data::Matrix)
     fig = Figure()
     ax = Axis(fig[1, 1], xlabel="blockTrial", ylabel="famTrial")
@@ -57,7 +66,11 @@ end
 df = @chain CSV.read("data/Mar2023/combined.csv", DataFrame) begin
     subset(:condition => ByRow(==("free")))
     subset(:stage => ByRow(==("epochs")))
-    select([:pid, :trialsComplete, :famInd, :correct])
+    select([:pid, :trialsComplete, :famInd, :features, :correct])
+    DataFrames.transform(:features => ByRow(parse_features) => [:f1, :f2])
+    select(Not([:features]))
+    DataFrames.transform([:f1, :f2] => ByRow(distfromcatbound) => :dist)
+    select(Not([:f1, :f2]))
 end
 
 # Compute features
@@ -96,3 +109,6 @@ begin
     mean(1 .- abs.(prediction(train_features, chain) .- trainset[:, end])) |> println
     mean(1 .- abs.(prediction(test_features, chain) .- testset[:, end])) |> println
 end
+
+
+df

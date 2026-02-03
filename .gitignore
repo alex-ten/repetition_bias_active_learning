@@ -1,6 +1,10 @@
-.ipynb_checkpoints
-pilots
-trash
+.ipynb_checkpoints/
+.vscode/
+pilots/
+trash/
+data/comparisons_6000/
 plots_temp/*
 .Rhistory
 *.pyc
+*.csv
+*.jld2
