@@ -1,0 +1,54 @@
+Manuscript Number: COGNIT-D-26-00311 
+
+Repetition bias in self-directed learning
+
+Dear Dr. Ten,  
+
+I am rejecting the current manuscript for the reason I describe below. I would be open to handling a revision (as a new submission) if the authors wish to go that route.
+
+The manuscript focuses on active learning choice sequences and their autocorrelation, which is an interesting topic and potentially suitable for Cognition. However, as far as I can see paper lacks any analysis of participants' learning. Contextualising the choice pattern results requires some sense of how much participants were learning, and what feedback patterns they were experiencing. If you are willing to incorporate some basic learning analyses into your manuscript then I would consider sending it out for a full review.
+
+My issue:
+
+As far as I can see the only clue as to whether people were able to learn the rules is the counterbalance check showing learning doesn't depend on the monster, and a note in section 3.2 that learning does relate to switches and block size.  But I can't find a statement of absolute performance relative to chance and ceiling; nor clarity as to how much guesses improve and if they asymptote during learning. Active learning depends on task representation since this shapes what the learner is uncertain about; and task difficulty which I suspect shapes cognitive load and hence shapes strategy (e.g. the difference between feeling stuck and trying to spark a hypothesis by generating diverse data, vs having a hypothesis and attempting to fine-tune it through margin sampling). The results would be more meaningful if paired with primary results of the learning aspect of the task. Hopefully participants are above floor (so they weren't just giving up) and below ceiling (so they weren't just clicking through to the end), but regardless this needs to be reported.
+
+Other thoughts:
+How many people learned the intended 2D rules? How many behaved more like there was a 1D rule. How many never got above chance? As far as I know, people find it difficult to learn even a single 2D rule by active sampling (e.g. see Markant & Gureckis, 2014), so for learning 3 at once it is conceivable participants were often stuck at floor. Conversely, the fact that the rule was actually the same for all three monster classes (with different feature mappings) may have produced generalisability/facilitation across categories making the task easier. But if cross-category generalisations and comparisons are informative, this also interacts with your research question. This seems of critical importance actually. With a fixed horizon and three learning tasks, it also strikes me perfectly rational to split the episode into three massed learning periods. Greedy information maximisation dynamics (driving frequent switching) seem to come into play only if one could be tested on any task at any time.
+
+Another thought I had is: the bear stimuli may be perceived differently to the others feature pairs, because width * height ~= size which I think is as likely as either width or height to be a basic feature. If so, they could learn a 1D rule for this stimulus. I realise there was no overall performance difference but perhaps that indicates a floor, or ceiling effect.  I think the salience of this compound feature should be acknowledged.
+
+Minor:
+"Anonimous author(s)" -> "Anonymous author(s)"
+
+Markant, D. B., & Gureckis, T. M. (2014). Is it better to select or to receive? Learning via active and passive hypothesis testing. Journal of Experimental Psychology: General, 143(1), 94.
+
+
+Editorial pre-review is a long-standing part of the Cognition review process, and each year we are faced with significant additional pressures (i.e., increased submissions, increased competition, and a growing publication backlog), and consequently, we have a tight criterion we use in editorial evaluation of submitted manuscripts. As a result, Cognition cannot accommodate all submissions that may ultimately be publishable. Thus, we are attempting to take such decisions prior to the review process in order to reduce the time manuscripts are in our hands. It is our hope that faster decisions of this type will be of value to authors who will experience a shorter delay in their efforts to publish their work.
+
+Thank you, again, for giving us the privilege of considering your article. We appreciate your support of Cognition and warmly welcome your future breakthrough submissions.
+
+Kindly,
+  
+Dr. Neil Robert Bramley 
+Associate Editor 
+Cognition  
+
+Editor and Reviewer comments (if applicable):  
+
+
+  
+
+  
+More information and support 
+FAQ: How can I reset a forgotten password?
+https://service.elsevier.com/app/answers/detail/a_id/28452/supporthub/publishing/kw/editorial+manager/
+
+For further assistance, please visit our customer service site: https://service.elsevier.com/app/home/supporthub/publishing/. Here you can search for solutions on a range of topics, find answers to frequently asked questions, and learn more about Editorial Manager via interactive tutorials. You can also talk 24/7 to our customer support team by phone and 24/7 by live chat and email.
+
+
+
+At Elsevier, we want to help all our authors to stay safe when publishing. Please be aware of fraudulent messages requesting money in return for the publication of your paper. If you are publishing open access with Elsevier, bear in mind that we will never request payment before the paper has been accepted. We have prepared some guidelines (https://www.elsevier.com/connect/authors-update/seven-top-tips-on-stopping-apc-scams ) that you may find helpful, including a short video on Identifying fake acceptance letters (https://www.youtube.com/watch?v=o5l8thD9XtE ). Please remember that you can contact Elsevier s Researcher Support team (https://service.elsevier.com/app/home/supporthub/publishing/) at any time if you have questions about your manuscript, and you can log into Editorial Manager to check the status of your manuscript (https://service.elsevier.com/app/answers/detail/a_id/29155/c/10530/supporthub/publishing/kw/status/).
+
+
+
+In compliance with data protection regulations, you may request that we remove your personal registration details at any time. (Remove my information/details). Please contact the publication office if you have any questions.
