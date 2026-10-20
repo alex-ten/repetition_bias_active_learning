@@ -1,0 +1,1 @@
+The data directory does not contain the original MCMC chains, because these files take up too much space (around 80 GB).

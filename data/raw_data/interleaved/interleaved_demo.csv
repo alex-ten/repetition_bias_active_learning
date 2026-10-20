@@ -1,0 +1,121 @@
+Participant id,Status,Time taken,Fluent languages,Age,Sex,Ethnicity simplified,Country of birth,Country of residence,Nationality,Language,Student status,Employment status
+363,APPROVED,2802,English,23,Male,Asian,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+355,APPROVED,56,English,75,Male,White,New Zealand,United Kingdom,New Zealand,English,No,Part-Time
+308,APPROVED,2536,English,33,Female,White,Ireland,Ireland,Ireland,English,Yes,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+181,APPROVED,6154,English,28,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+289,APPROVED,6009,English,27,Male,Black,South Africa,South Africa,South Africa,English,Yes,Unemployed (and job seeking)
+333,APPROVED,4634,English,30,Male,Black,DATA_EXPIRED,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+160,APPROVED,4480,"Spanish, English, Portuguese",34,Male,White,United States,Portugal,United States,English,Yes,Full-Time
+336,APPROVED,5037,English,22,Male,Mixed,Italy,United Kingdom,Nigeria,English,Yes,Part-Time
+131,APPROVED,3892,English,61,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,DATA_EXPIRED
+134,APPROVED,6430,English,28,Female,White,Australia,Australia,Australia,English,No,DATA_EXPIRED
+235,APPROVED,6027,"Afrikaans, English",49,Female,Asian,South Africa,South Africa,South Africa,English,No,Part-Time
+276,APPROVED,6180,English,32,Female,Black,South Africa,South Africa,South Africa,English,Yes,Full-Time
+139,APPROVED,2402,English,45,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+287,APPROVED,4973,"Afrikaans, English",24,Male,Black,South Africa,South Africa,South Africa,English,Yes,Full-Time
+291,APPROVED,3094,English,42,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+348,APPROVED,3004,"English, German",40,Female,White,Germany,United Kingdom,Germany,English,No,Other
+196,APPROVED,6384,English,49,Female,Black,Zambia,South Africa,Zambia,English,No,Full-Time
+143,APPROVED,3564,English,67,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+340,APPROVED,1844,English,41,Male,White,Germany,United Kingdom,United Kingdom,English,Yes,Full-Time
+199,APPROVED,2913,English,25,Female,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+146,APPROVED,3607,"English, French",65,Female,White,Canada,United States,Canada,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+189,APPROVED,3390,English,35,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,DATA_EXPIRED
+320,APPROVED,2735,English,23,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+251,APPROVED,4042,"Afrikaans, English",24,Female,Mixed,South Africa,South Africa,South Africa,English,No,Unemployed (and job seeking)
+129,APPROVED,2405,English,37,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+298,APPROVED,3601,English,35,Female,White,DATA_EXPIRED,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+332,APPROVED,3240,English,18,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Due to start a new job within the next month
+127,APPROVED,3343,English,62,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+286,APPROVED,4076,English,21,Female,Black,South Africa,South Africa,South Africa,English,Yes,Unemployed (and job seeking)
+322,APPROVED,4090,English,34,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+335,APPROVED,3055,English,27,Male,Black,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+302,APPROVED,5363,"English, Afrikaans",25,Female,Black,South Africa,South Africa,South Africa,English,Yes,Unemployed (and job seeking)
+133,APPROVED,4042,English,70,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+318,APPROVED,3506,English,36,Female,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+313,APPROVED,3951,English,28,Female,Asian,Australia,Australia,Australia,English,No,Full-Time
+328,APPROVED,2712,English,22,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+309,APPROVED,2828,English,31,Female,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+145,APPROVED,3080,English,38,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Other
+237,APPROVED,4789,"Afrikaans, English",35,Female,White,South Africa,South Africa,South Africa,English,No,Full-Time
+305,APPROVED,3052,English,31,Male,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+183,APPROVED,2999,English,36,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+329,APPROVED,3300,English,31,Male,Black,United States,United States,United States,English,No,Full-Time
+140,APPROVED,5318,English,40,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,DATA_EXPIRED
+284,APPROVED,2703,English,49,Female,White,United Kingdom,Ireland,United Kingdom,English,No,Full-Time
+169,APPROVED,2648,English,28,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+342,APPROVED,4094,English,57,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+248,APPROVED,3736,English,32,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+178,APPROVED,5127,English,78,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+153,APPROVED,4471,English,34,Female,Mixed,Zimbabwe,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+303,APPROVED,3949,English,24,Male,Black,South Africa,South Africa,South Africa,English,Yes,Part-Time
+161,APPROVED,2768,English,27,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+321,APPROVED,2475,English,22,Female,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+212,APPROVED,5196,"Afrikaans, English",27,Female,Mixed,South Africa,South Africa,South Africa,English,No,Full-Time
+190,APPROVED,2856,English,38,Male,White,Australia,United Kingdom,United Kingdom,English,No,DATA_EXPIRED
+168,APPROVED,3407,English,26,Female,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,Full-Time
+147,APPROVED,3152,English,36,Female,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+226,APPROVED,2924,English,34,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+288,APPROVED,2506,English,22,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+207,APPROVED,3467,English,35,Female,White,United States,United States,United States,English,No,Full-Time
+264,APPROVED,4441,"English, Spanish",49,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+268,APPROVED,5186,English,28,Female,Black,South Africa,South Africa,South Africa,English,Yes,Other
+243,APPROVED,3053,English,41,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+203,APPROVED,3250,English,30,Female,Mixed,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+155,APPROVED,3284,English,35,Male,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+171,APPROVED,3122,English,52,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+228,APPROVED,2308,"German, Hungarian, English",27,Male,White,United Kingdom,Hungary,United Kingdom,English,Yes,Full-Time
+368,APPROVED,2376,English,19,Male,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Unemployed (and job seeking)
+215,APPROVED,2813,English,34,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+138,APPROVED,3739,English,72,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+229,APPROVED,2921,English,25,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+252,APPROVED,4100,English,46,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+135,APPROVED,5697,English,31,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+130,APPROVED,6195,English,68,Female,DATA_EXPIRED,United Kingdom,United Kingdom,United Kingdom,English,No,DATA_EXPIRED
+136,APPROVED,2837,English,34,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+260,APPROVED,3693,"Afrikaans, English",23,Male,Mixed,South Africa,South Africa,South Africa,English,No,Full-Time
+210,APPROVED,3351,English,35,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+214,APPROVED,7060,English,34,Female,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,Full-Time
+186,APPROVED,3065,English,39,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Unemployed (and job seeking)
+175,APPROVED,6142,English,22,Female,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+259,APPROVED,3755,English,54,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+326,APPROVED,3046,English,37,Male,White,Germany,France,United Kingdom,English,No,Unemployed (and job seeking)
+317,APPROVED,3303,English,42,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+249,APPROVED,3563,English,65,Female,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+262,APPROVED,3627,English,42,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+319,APPROVED,3069,English,40,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+354,APPROVED,2725,English,20,Male,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+343,APPROVED,3275,English,35,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+338,APPROVED,3009,"Arabic, English",36,Male,Mixed,Saudi Arabia,United Kingdom,United Kingdom,English,No,Full-Time
+367,APPROVED,3229,English,33,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Due to start a new job within the next month
+144,APPROVED,6823,English,36,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+193,APPROVED,3073,English,40,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+350,APPROVED,3248,English,20,Male,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Part-Time
+327,APPROVED,2620,English,26,Male,Asian,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+124,APPROVED,3778,English,52,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+179,APPROVED,4636,English,24,Male,Asian,Australia,Australia,Australia,English,DATA_EXPIRED,DATA_EXPIRED
+192,APPROVED,3207,English,39,Male,White,Canada,Canada,Canada,English,No,Part-Time
+163,APPROVED,3147,English,38,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,DATA_EXPIRED
+209,APPROVED,3803,English,31,Male,White,Canada,Canada,Canada,English,No,Part-Time
+339,APPROVED,3120,English,28,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+314,APPROVED,2726,English,33,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+369,APPROVED,4123,English,21,Male,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+173,APPROVED,4197,English,DATA_EXPIRED,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,DATA_EXPIRED
+304,APPROVED,4085,English,20,Female,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+365,APPROVED,3829,English,31,Male,Black,Nigeria,United Kingdom,Nigeria,English,Yes,DATA_EXPIRED
+370,APPROVED,2770,"Croatian, English",23,Male,White,Croatia,United Kingdom,Croatia,English,Yes,Unemployed (and job seeking)
+270,APPROVED,4303,English,26,Male,Black,South Africa,South Africa,South Africa,English,Yes,Other
+349,APPROVED,3268,English,53,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+344,APPROVED,984,"English, Spanish, German, French",43,Male,Black,Nigeria,United Kingdom,Nigeria,English,Yes,Full-Time
+362,APPROVED,4565,"Arabic, English",39,Female,Other,Australia,Australia,Australia,English,Yes,Unemployed (and job seeking)
+149,APPROVED,2618,English,43,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+204,APPROVED,2334,"English, Italian",26,Male,Asian,Italy,United Kingdom,Italy,English,No,Full-Time
+208,APPROVED,1538,English,22,Female,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Other
+165,APPROVED,1936,"German, English",47,Male,White,Germany,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+364,APPROVED,2141,"English, Hindi, Punjabi",71,Female,Asian,India,United Kingdom,United Kingdom,English,No,Part-Time
+358,APPROVED,2001,English,21,Male,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Part-Time
+211,APPROVED,2402,English,28,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+334,APPROVED,1958,"Chinese, English",33,Male,Asian,China,United Kingdom,United Kingdom,English,No,Full-Time
+240,APPROVED,1809,English,31,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+151,APPROVED,2821,English,56,Female,Mixed,Singapore,United Kingdom,United Kingdom,English,No,Part-Time
+224,APPROVED,2482,English,38,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"

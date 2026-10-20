@@ -1,0 +1,20 @@
+.ipynb_checkpoints/
+.vscode/
+pilots/
+trash/
+data/comparisons_6000/
+plots_temp/*
+.Rhistory
+*.pyc
+
+# raw per-participant MCMC outputs (too heavy)
+data/comparisons/
+data/comparisons_6000_frozen/
+# outdated derived datasets
+data/comparisons_6000_converged_ess100x4_rhat101.csv
+data/diagnostics.csv
+data/diagnostics_6000.csv
+checklist.txt
+# participant identifiers: anonymization key (never commit)
+data/private/
+pid_map.csv

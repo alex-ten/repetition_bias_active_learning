@@ -1,0 +1,123 @@
+Participant id,Status,Time taken,Fluent languages,Age,Sex,Ethnicity simplified,Country of birth,Country of residence,Nationality,Language,Student status,Employment status
+27,AWAITING REVIEW,3338,English,23,Male,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+44,AWAITING REVIEW,4613,"English, Urdu",28,Male,Asian,Pakistan,Australia,Australia,English,DATA_EXPIRED,DATA_EXPIRED
+23,AWAITING REVIEW,3762,English,35,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+68,AWAITING REVIEW,4324,"English, Dutch, German, Italian, French, Spanish",32,Female,White,Ireland,Ireland,Ireland,English,Yes,Full-Time
+97,AWAITING REVIEW,3760,English,26,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+74,AWAITING REVIEW,6004,English,37,Female,Black,South Africa,South Africa,South Africa,English,Yes,Full-Time
+72,AWAITING REVIEW,2883,"Arabic, Polish, English",30,Male,Other,Canada,Canada,Canada,English,No,Due to start a new job within the next month
+89,AWAITING REVIEW,5596,English,26,Male,White,Ireland,Ireland,Ireland,English,No,Full-Time
+8,AWAITING REVIEW,2577,English,45,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+60,AWAITING REVIEW,4190,English,41,Male,Black,Zimbabwe,Italy,Zimbabwe,English,No,Unemployed (and job seeking)
+25,AWAITING REVIEW,3135,English,31,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+63,AWAITING REVIEW,3659,English,39,Female,White,Canada,Canada,Canada,English,No,DATA_EXPIRED
+94,AWAITING REVIEW,3839,"Spanish, English",46,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+266,REJECTED,552,CONSENT_REVOKED,CONSENT_REVOKED,CONSENT_REVOKED,CONSENT_REVOKED,CONSENT_REVOKED,CONSENT_REVOKED,CONSENT_REVOKED,CONSENT_REVOKED,CONSENT_REVOKED,CONSENT_REVOKED
+56,AWAITING REVIEW,5286,English,24,Female,Black,South Africa,South Africa,South Africa,English,No,Unemployed (and job seeking)
+100,AWAITING REVIEW,3673,English,30,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+65,AWAITING REVIEW,4659,"Afrikaans, English",39,Male,Black,South Africa,South Africa,South Africa,English,Yes,Full-Time
+18,AWAITING REVIEW,2671,English,33,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+64,AWAITING REVIEW,6219,English,40,Female,Black,South Africa,South Africa,South Africa,English,No,Part-Time
+52,AWAITING REVIEW,2893,English,33,Male,White,Japan,United Kingdom,United States,English,No,Unemployed (and job seeking)
+69,AWAITING REVIEW,3745,"Afrikaans, English",22,Female,Mixed,South Africa,South Africa,South Africa,English,Yes,Unemployed (and job seeking)
+26,AWAITING REVIEW,4135,English,40,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+111,AWAITING REVIEW,2358,English,29,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+104,AWAITING REVIEW,3183,English,60,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+50,AWAITING REVIEW,6957,English,24,Male,Black,South Africa,South Africa,South Africa,English,Yes,Part-Time
+53,AWAITING REVIEW,2283,English,41,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+81,AWAITING REVIEW,4189,English,21,Male,Asian,South Africa,South Africa,South Africa,English,No,Unemployed (and job seeking)
+83,AWAITING REVIEW,5829,English,29,Male,White,South Africa,South Africa,South Africa,English,DATA_EXPIRED,Full-Time
+59,AWAITING REVIEW,3865,English,27,Female,Black,South Africa,South Africa,South Africa,English,No,Full-Time
+47,AWAITING REVIEW,3196,English,28,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+10,AWAITING REVIEW,4589,English,30,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,DATA_EXPIRED
+40,AWAITING REVIEW,3230,English,25,Female,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+48,AWAITING REVIEW,2517,English,36,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+11,AWAITING REVIEW,2562,English,37,Female,White,United States,United Kingdom,Australia,English,DATA_EXPIRED,DATA_EXPIRED
+73,AWAITING REVIEW,3257,English,28,Female,Mixed,South Africa,South Africa,South Africa,English,Yes,Full-Time
+91,AWAITING REVIEW,6476,"English, French",49,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+20,AWAITING REVIEW,7380,English,41,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+29,AWAITING REVIEW,3083,English,56,Female,White,United Kingdom,Ireland,United Kingdom,English,No,Part-Time
+66,AWAITING REVIEW,3508,English,40,Female,Black,Nigeria,United Kingdom,Nigeria,English,No,Full-Time
+57,AWAITING REVIEW,3754,"English, Spanish, Hindi",22,Male,Asian,Chile,Chile,Chile,English,Yes,Other
+46,AWAITING REVIEW,4082,English,23,Female,DATA_EXPIRED,DATA_EXPIRED,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+37,AWAITING REVIEW,3798,English,32,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+84,AWAITING REVIEW,4913,English,35,Female,Black,South Africa,South Africa,South Africa,English,No,Full-Time
+79,AWAITING REVIEW,5031,English,22,Female,Black,South Africa,South Africa,South Africa,English,Yes,Unemployed (and job seeking)
+67,AWAITING REVIEW,4236,"Afrikaans, English",20,Male,Mixed,South Africa,South Africa,South Africa,English,Yes,Unemployed (and job seeking)
+61,AWAITING REVIEW,6661,English,31,Female,Black,South Africa,South Africa,South Africa,English,Yes,Unemployed (and job seeking)
+4,AWAITING REVIEW,2318,English,31,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+75,AWAITING REVIEW,5511,English,25,Female,Black,South Africa,South Africa,South Africa,English,No,Unemployed (and job seeking)
+1,AWAITING REVIEW,4048,English,50,Female,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+33,AWAITING REVIEW,2523,English,27,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+120,AWAITING REVIEW,5799,English,31,Female,Black,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+109,AWAITING REVIEW,4433,English,51,Male,White,United States,Mexico,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+82,APPROVED,8716,English,32,Female,Black,South Africa,South Africa,South Africa,English,No,Full-Time
+54,AWAITING REVIEW,3433,"English, Afrikaans",31,Male,Mixed,South Africa,South Africa,South Africa,English,No,Unemployed (and job seeking)
+13,AWAITING REVIEW,3762,"English, French",36,Female,White,Canada,Canada,Canada,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+70,AWAITING REVIEW,2790,English,37,Male,White,Canada,Canada,Canada,English,No,DATA_EXPIRED
+110,AWAITING REVIEW,2572,English,26,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+15,AWAITING REVIEW,4594,English,41,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+95,AWAITING REVIEW,2829,English,43,Male,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+58,AWAITING REVIEW,7025,English,32,Female,Black,Uganda,South Africa,Uganda,English,Yes,Part-Time
+78,AWAITING REVIEW,2689,English,54,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+119,AWAITING REVIEW,2903,"English, Tagalog-Filipino",54,Male,Mixed,Philippines,United Kingdom,United Kingdom,English,No,Full-Time
+19,AWAITING REVIEW,4887,English,25,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+5,AWAITING REVIEW,3945,English,44,Male,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+9,AWAITING REVIEW,2714,English,27,Female,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+24,AWAITING REVIEW,2865,English,55,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+7,AWAITING REVIEW,3002,"English, French",31,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+17,AWAITING REVIEW,3187,English,44,Female,White,Canada,Canada,Canada,English,No,Full-Time
+22,AWAITING REVIEW,2657,English,39,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+36,AWAITING REVIEW,2798,English,34,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,DATA_EXPIRED
+77,AWAITING REVIEW,5020,English,47,Male,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+92,AWAITING REVIEW,3271,"English, Scots",51,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+88,AWAITING REVIEW,2970,English,32,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+96,AWAITING REVIEW,3929,English,21,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+55,AWAITING REVIEW,4413,English,25,Male,White,Canada,Canada,Canada,English,DATA_EXPIRED,DATA_EXPIRED
+6,AWAITING REVIEW,4626,English,38,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+90,AWAITING REVIEW,2608,English,27,Female,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+105,AWAITING REVIEW,2650,English,36,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+38,AWAITING REVIEW,3609,English,43,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+98,AWAITING REVIEW,3048,English,33,Female,Mixed,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+118,AWAITING REVIEW,2857,English,26,Male,White,United Kingdom,United Kingdom,Ireland,English,No,Full-Time
+39,AWAITING REVIEW,2829,English,27,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+16,AWAITING REVIEW,3181,English,28,Female,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+31,AWAITING REVIEW,2390,"English, Portuguese",35,Male,White,United Kingdom,Ireland,United Kingdom,English,No,Full-Time
+99,AWAITING REVIEW,3026,English,25,Male,Other,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+108,AWAITING REVIEW,4020,English,41,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+106,AWAITING REVIEW,2300,English,32,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+3,AWAITING REVIEW,3704,English,54,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,DATA_EXPIRED
+86,AWAITING REVIEW,4165,English,20,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+115,AWAITING REVIEW,2896,English,26,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+80,AWAITING REVIEW,3483,English,49,Male,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+71,AWAITING REVIEW,2720,English,19,Male,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,DATA_EXPIRED
+121,AWAITING REVIEW,3065,English,32,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+107,AWAITING REVIEW,2658,English,50,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+116,AWAITING REVIEW,3499,English,28,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+112,AWAITING REVIEW,2097,English,26,Male,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+103,AWAITING REVIEW,3386,English,57,Male,White,United Kingdom,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+49,AWAITING REVIEW,3007,"English, Afrikaans",35,Male,White,South Africa,South Africa,South Africa,English,No,Full-Time
+43,AWAITING REVIEW,3136,English,68,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+87,AWAITING REVIEW,3795,English,30,Female,Mixed,United Kingdom,United Kingdom,United Kingdom,English,Yes,Other
+113,AWAITING REVIEW,3088,English,25,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Unemployed (and job seeking)
+85,AWAITING REVIEW,3469,English,20,Male,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Due to start a new job within the next month
+114,AWAITING REVIEW,2182,English,29,Male,White,United Kingdom,Germany,United Kingdom,English,No,Full-Time
+117,AWAITING REVIEW,2634,English,33,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+51,AWAITING REVIEW,6253,"English, Spanish",34,Female,White,United Kingdom,Spain,United Kingdom,English,No,Full-Time
+2,AWAITING REVIEW,3497,English,48,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+12,AWAITING REVIEW,4772,English,42,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+62,AWAITING REVIEW,3939,English,47,Female,Black,United States,South Africa,South Africa,English,No,Unemployed (and job seeking)
+21,AWAITING REVIEW,2794,English,44,Male,White,Ireland,Ireland,Ireland,English,No,Full-Time
+35,AWAITING REVIEW,2865,English,28,Female,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+32,AWAITING REVIEW,2543,"English, Japanese",34,Male,White,United States,United Kingdom,United Kingdom,English,Yes,Full-Time
+14,AWAITING REVIEW,3954,English,28,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+76,AWAITING REVIEW,3701,English,28,Female,Black,South Africa,South Africa,South Africa,English,No,Full-Time
+101,AWAITING REVIEW,2495,English,34,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+34,AWAITING REVIEW,2331,English,32,Female,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+45,AWAITING REVIEW,6076,English,39,Female,White,United States,United Kingdom,United Kingdom,English,DATA_EXPIRED,DATA_EXPIRED
+28,AWAITING REVIEW,3101,English,56,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Unemployed (and job seeking)
+30,AWAITING REVIEW,2391,English,31,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+93,AWAITING REVIEW,2142,English,27,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+102,AWAITING REVIEW,2087,English,29,Male,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Unemployed (and job seeking)
+41,AWAITING REVIEW,3739,"English, Spanish",37,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+42,AWAITING REVIEW,3238,English,25,Female,White,United States,United States,United States,English,No,Full-Time
